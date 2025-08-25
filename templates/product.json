@@ -112,11 +112,15 @@
         },
         "image_jXzY8e": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/2._bike_close_up.webp"
+          }
         },
         "image_Ac9GfX": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/3._bike_riding.webp"
+          }
         }
       },
       "block_order": [
